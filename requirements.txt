@@ -1,8 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
 PyPDF2
-langchain.text_splitter
+chromadb
+faiss-cpu
 langchain_google_genai
-langchain.vectorstores
-langchain_google_genai
-langchain.chains.question_answering
-langchain.prompts
-google.generativeai
