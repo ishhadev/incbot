@@ -1,6 +1,4 @@
-os
 PyPDF2
-dotenv
 langchain.text_splitter
 langchain_google_genai
 langchain.vectorstores
